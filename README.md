@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Junkai Tan (谭浚楷)
+## Hi there 👋, I'm Junkai Tan (谭浚楷)
 
 ## 👨‍💼 About Me | 个人简介
 - 🎓 Graduate Student at School of Electrical Engineering, Xi'an Jiaotong University
