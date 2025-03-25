@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Junkai Tan (谭浚楷)
 
 ## 👨‍💼 About Me | 个人简介
-- 🎓 Graduate Student at School of Electrical Engineering, Xi'an Jiaotong University
-- 👨‍🎓 Master's Candidate in Electrical Engineering | Industrial Automation Lab
+I’m a second-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest include _robotics control_, _intelligent control_, _learning-based control_, and _unmanned system control_.
 - 🌐 Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io)
 
 ## 🔬 Research Interests | 研究方向
