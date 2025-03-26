@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Junkai Tan (谭浚楷)
 
-[![Top Langs](https://github-readme-stats-amber-eight-96.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact)](https://github.com/tanjunkai2001/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats-amber-eight-96.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact)](https://github.com/tanjunkai2001/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true)
 
 
 
