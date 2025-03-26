@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Junkai Tan (谭浚楷)
 
-[![Top Langs](https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact)](https://github.com/tanjunkai2001/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true)
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
+</div>
 
 
 ## 👨‍💼 About Me | 个人简介
