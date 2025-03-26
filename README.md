@@ -1,7 +1,13 @@
 ## Hi there 👋, I'm Junkai Tan (谭浚楷)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact)](https://github.com/tanjunkai2001/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjunkai2001&show_icons=true)
+
+
+
 ## 👨‍💼 About Me | 个人简介
-I’m a second-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest include _robotics control_, _intelligent control_, _learning-based control_, and _unmanned system control_.
+- 🎓 Graduate Student at School of Electrical Engineering, Xi'an Jiaotong University
+- 👨‍🎓 Master's Candidate in Electrical Engineering | Industrial Automation Lab
 - 🌐 Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io)
 
 ## 🔬 Research Interests | 研究方向
@@ -15,7 +21,7 @@ I’m a second-year graduate student from [School of Electrical Engineering](htt
 
 ## 📝 Selected Publications | 学术成果 [[Google Scholar]](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN)
 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", IEEE Trans. Autom. Sci. Eng., 2025.
-2. "[Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems](https://www.sciencedirect.com/science/article/pii/S002002552500249X)", Inf. Sci., 2025.
+2. "Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems", Inf. Sci., 2025.
 3. "[Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games](https://link.springer.com/10.1007/s11071-025-11021-6)", Nonlinear Dyn., 2025.
 4. "[Data-driven optimal shared control of unmanned aerial vehicles](https://www.sciencedirect.com/science/article/pii/S0925231225001006)", Neurocomputing, 2025.
 
