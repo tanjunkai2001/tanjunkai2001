@@ -4,8 +4,8 @@
 + Contact Me: [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Personal Website](https://tanjunkai2001.github.io) \ [Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [ResearchGate](https://www.researchgate.net/profile/Junkai-Tan-2) \ [LinkedIn](https://www.linkedin.com/in/junkai-tan-366790268/)
 
 ## 🔬 Research Interests
-- Human-Machine Hybrid Enhanced Control (人机混合增强控制, *Neurocomputing*, *IJRNC*)
 - Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制, *IEEE TASE*, *INS*, *NoDy*)
+- Human-Machine Hybrid Enhanced Control (人机混合增强控制, *Neurocomputing*, *IJRNC*)
 
 ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals such as IEEE TASE, Information Sciences, and Nonlinear Dynamics.
