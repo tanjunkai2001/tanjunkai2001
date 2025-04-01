@@ -4,15 +4,18 @@
 <!-- + Contact Me: [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Personal Website](https://tanjunkai2001.github.io) \ [Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [ResearchGate](https://www.researchgate.net/profile/Junkai-Tan-2) \ [LinkedIn](https://www.linkedin.com/in/junkai-tan-366790268/) -->
 
 
-+ Scholar Links:
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0558-6357)
-+ Contact me:
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/) [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/tan-91-64) [![Rednote](https://img.shields.io/badge/Rednote-FF4D00?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/60bcf6040000000001001810)
++ Scholar Links: [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0558-6357)
++ Contact me: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/) [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/tan-91-64) [![Rednote](https://img.shields.io/badge/Rednote-FF4D00?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/60bcf6040000000001001810)
 
 
 ## 🔬 Research Interests
-- Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制, *IEEE TASE*, *INS*, *NoDy*)
-- Human-Machine Hybrid Enhanced Control (人机混合增强控制, *Neurocomputing*, *IJRNC*, *US*, *JAI*)
+<!-- - Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制, ***IEEE TASE***, ***INS***, ***NoDy***)
+- Human-Machine Hybrid Enhanced Control (人机混合增强控制, ***Neurocomputing***, ***IJRNC***, ***US***, ***JAI***) -->
+1. ***Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制) :***
+  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE** (1 accept, 1 in revision), **Nonlinear Dynamics** (1 accept, 1 in revision), **INS***.
+
+2. ***Human-Machine Hybrid Enhanced Shared Optimal Control  (人机混合增强控制):***
+  Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **US**, **JAI***.
 
 ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals such as IEEE TASE, Information Sciences, and Nonlinear Dynamics.
