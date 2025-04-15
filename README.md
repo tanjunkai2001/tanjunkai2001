@@ -35,7 +35,7 @@ If you are interested in my research, please feel free to contact me. I am open 
     <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001&theme=github-compact)
 
 
 <!-- ## 📫 Contact | 联系方式
