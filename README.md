@@ -32,8 +32,8 @@ If you are interested in my research, please feel free to contact me. I am open 
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="180" />
-    <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001" alt="GitHub Streak" height="180" />
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true&layout=compact" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="180" />
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001&theme=github-compact)
