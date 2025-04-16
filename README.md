@@ -12,7 +12,7 @@
 <!-- - Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制, ***IEEE TASE***, ***INS***, ***NoDy***)
 - Human-Machine Hybrid Enhanced Control (人机混合增强控制, ***Neurocomputing***, ***IJRNC***, ***US***, ***JAI***) -->
 1. ***Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制) :***
-  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE** (1 accept, 1 in revision), **Nonlinear Dynamics** (1 accept, 1 in revision), **INS***.
+  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE** (1 accept, 1 in revision), **Nonlinear Dynamics** (2), **INS***.
 
 2. ***Human-Machine Hybrid Enhanced Shared Optimal Control  (人机混合增强控制):***
   Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **US**, **JAI***.
