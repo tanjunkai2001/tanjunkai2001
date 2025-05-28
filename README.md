@@ -38,6 +38,7 @@ If you are interested in my research, please feel free to contact me. I am open 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001&theme=github-compact)
 
+- ⚡ Fun fact: @uanaaa
 
 <!-- ## 📫 Contact | 联系方式
 - 📧 Email: tanjk@stu.xjtu.edu.cn -->
