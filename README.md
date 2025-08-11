@@ -23,9 +23,10 @@
 
 ## 📝 Selected Publications
 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", *IEEE Trans. Autom. Sci. Eng.*, 2025.
-2. "[Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems](https://www.sciencedirect.com/science/article/pii/S002002552500249X?dgcid=coauthor)", *Inf. Sci.*, 2025.
-3. "[Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games](https://link.springer.com/10.1007/s11071-025-11021-6)", *Nonlinear Dyn.*, 2025.
-4. "[Data-driven optimal shared control of unmanned aerial vehicles](https://www.sciencedirect.com/science/article/pii/S0925231225001006)", *Neurocomputing*, 2025.
+2. "[Hierarchical Safe Reinforcement Learning Control for Leader-Follower Systems with Prescribed Performance](https://ieeexplore.ieee.org/document/11121383)", *IEEE Trans. Autom. Sci. Eng.*, 2025.
+3. "[Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems](https://www.sciencedirect.com/science/article/pii/S002002552500249X?dgcid=coauthor)", *Inf. Sci.*, 2025.
+4. "[Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games](https://link.springer.com/10.1007/s11071-025-11021-6)", *Nonlinear Dyn.*, 2025.
+5. "[Data-driven optimal shared control of unmanned aerial vehicles](https://www.sciencedirect.com/science/article/pii/S0925231225001006)", *Neurocomputing*, 2025.
 
 If you are interested in my research, please feel free to contact me. I am open to collaboration and discussions on related topics.
 
