@@ -17,9 +17,9 @@
 2. ***Human-Machine Hybrid Enhanced Shared Optimal Control  (人机混合增强控制):***
   Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **US**, **JAI***.
 
-## 💻 Core Competencies
+<!-- ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals such as IEEE TASE, Information Sciences, and Nonlinear Dynamics.
-- **Engineering Practice**: Extensive experience with unmanned systems, responsible for multiple UAV-UGV collaborative control projects, and developed multi-unmanned system hardware platforms based on optical motion capture systems.
+- **Engineering Practice**: Extensive experience with unmanned systems, responsible for multiple UAV-UGV collaborative control projects, and developed multi-unmanned system hardware platforms based on optical motion capture systems. -->
 
 ## 📝 Selected Publications
 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", *IEEE Trans. Autom. Sci. Eng.*, 2025.
