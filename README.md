@@ -4,7 +4,7 @@
   # Hi there 👋, I'm Junkai Tan / 谭浚楷
   
   **Master's Student @ Xi'an Jiaotong University (XJTU)**  
-  **Incoming Ph.D. Student @ The Hong Kong Polytechnic University (PolyU)**
+  **Incoming Ph.D. Student @ The Hong Kong Polytechnic University (PolyU)**  
   **Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io/)**
   
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN)
@@ -67,10 +67,10 @@ My research focuses on enabling autonomous systems to learn and adapt safely in 
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="160" />
-  <br/>
-  <br/>
+  <!-- <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="160" /> -->
+  <!-- <br/> -->
+  <!-- <br/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001&theme=github-compact" alt="Activity Graph" />
   
   <p>⚡ Fun fact: @uanaaa</p>
