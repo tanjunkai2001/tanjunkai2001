@@ -64,9 +64,9 @@ My research focuses on enabling autonomous systems to learn and adapt safely in 
 <!-- 6. **Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games**  
    **Junkai Tan**, S. Xue, T. Niu, K. Qu, H. Cao, B. Chen  
    *Nonlinear Dynamics (**NoDy**)*, 2025. [[Link](https://link.springer.com/10.1007/s11071-025-11021-6)] -->
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
+<!-- <div align="center"> -->
+  <!-- <h3>📊 GitHub Stats</h3> -->
   <!-- <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" />
   <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="160" /> -->
   <!-- <br/> -->
@@ -74,4 +74,4 @@ My research focuses on enabling autonomous systems to learn and adapt safely in 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001&theme=github-compact" alt="Activity Graph" />
   
   <p>⚡ Fun fact: @uanaaa</p>
-</div>
+<!-- </div> -->
