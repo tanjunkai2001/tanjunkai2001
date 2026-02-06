@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://github.com/tanjunkai2001/tanjunkai2001/assets/66026490/b0c03429-0731-4040-9662-730623101890" width="120" style="border-radius: 50%;" alt="Avatar"/>
+  <!-- <img src="https://github.com/tanjunkai2001/tanjunkai2001/assets/66026490/b0c03429-0731-4040-9662-730623101890" width="120" style="border-radius: 50%;" alt="Avatar"/> -->
   
   # Hi there 👋, I'm Junkai Tan / 谭浚楷
   
   **Master's Student @ Xi'an Jiaotong University (XJTU)**  
   **Incoming Ph.D. Student @ The Hong Kong Polytechnic University (PolyU)**
+  **Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io/)**
   
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001)
@@ -16,11 +17,11 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me
 
 I am currently a second-year graduate student at the [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), working at the BIR Lab under the supervision of Prof. Hui Cao and Dr. Shuangsi Xue. 
 
-I have been admitted as a **Ph.D. student** at the Department of Aeronautical and Aviation Engineering (AAE), **The Hong Kong Polytechnic University (PolyU)**, affiliated with the RCLAE, supervised by Prof. Wen-Hua Chen (starting Sep. 2026).
+I have been admitted as a **Ph.D. student** at the Department of Aeronautical and Aviation Engineering (AAE), **The Hong Kong Polytechnic University (PolyU)**, affiliated with the RCLAE, supervised by Prof. Wen-Hua Chen (starting Sep. 2026). -->
 <!-- 
 ## � Recent Highlights
 
