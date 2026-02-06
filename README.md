@@ -39,7 +39,7 @@ My research focuses on enabling autonomous systems to learn and adapt safely in 
 - **🧠 Intelligent Control:** Learning-based methods and reinforcement learning.
 - **🤝 Human–Machine Interaction:** Shared autonomy and hybrid enhanced control systems.
 
-## 📝 Selected Publications
+<!-- ## 📝 Selected Publications
 
 1. **Fixed-time stochastic learning from human-UAV interaction with state-input constraints**  
    **Junkai Tan**, S. Xue, Q. Guan, Z. Guo, H. Cao, B. Chen  
@@ -59,7 +59,7 @@ My research focuses on enabling autonomous systems to learn and adapt safely in 
 
 5. **Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems**  
    **Junkai Tan**, S. Xue, Q. Guan, K. Qu, H. Cao  
-   *Information Sciences (**INS**)*, 2025. [[Link](https://www.sciencedirect.com/science/article/pii/S002002552500249X)]
+   *Information Sciences (**INS**)*, 2025. [[Link](https://www.sciencedirect.com/science/article/pii/S002002552500249X)] -->
 
 <!-- 6. **Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games**  
    **Junkai Tan**, S. Xue, T. Niu, K. Qu, H. Cao, B. Chen  
