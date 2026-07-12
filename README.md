@@ -3,7 +3,7 @@
   
   # Hi there 👋, I'm Junkai Tan / 谭浚楷
   
-  **Master's Student & B.Eng @ Xi'an Jiaotong University (XJTU)**  
+  **M.Eng & B.Eng @ Xi'an Jiaotong University (XJTU)**  
   **Incoming Ph.D. Student @ The Hong Kong Polytechnic University (PolyU)**  
   **Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io/)**
   
